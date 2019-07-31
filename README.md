@@ -1,2 +1,0 @@
-# ReactAdvinhaGame
-Created with CodeSandbox
